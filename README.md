@@ -1,4 +1,4 @@
-# pSQL Driver in GO
+# pq package ~Psql Driver in GO
 it is a pure Go Postgres driver for the database/sql package. 
 
 for more documentation refer this...
