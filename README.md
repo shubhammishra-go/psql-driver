@@ -45,6 +45,7 @@ After setuping see the code how to perform SQL operations
 
 ## Psql libraries for Go
 sqlX
+
 ```https://github.com/jmoiron/sqlx```
 
 pgX
