@@ -3,7 +3,7 @@ it is a pure Go Postgres driver for the database/sql package.
 
 for more documentation refer this...
 
-[link](https://pkg.go.dev/github.com/lib/pq)
+```https://pkg.go.dev/github.com/lib/pq```
 
 ## To Use
 --> first intialize a repository [Optional]
